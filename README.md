@@ -17,6 +17,11 @@ The objective is to identify areas that are environmentally acceptable for renew
 ### Onshore Wind
 ![Wind](images/wind.png)
 
+### Live Demo
+
+# Interactive Streamlit app:
+https://bali-environmental-suitability-ij6fb66gy8e86um9mzj2q5.streamlit.app/
+
 ### 1. Base Land Preparation
 
 Land suitability was derived from the **ESA WorldCover (2021) raster dataset**, which was reclassified into suitable and non-suitable land cover classes.
